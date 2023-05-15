@@ -1,0 +1,33 @@
+.up{
+    background-color: red;
+    color: aliceblue;
+    padding: 10px;
+    width: auto;
+    height:auto
+}
+.intro{
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    margin: auto
+}
+.middle{
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+    width: auto;
+    height:auto
+}
+.down{
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    width: auto;
+    height:auto 
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
